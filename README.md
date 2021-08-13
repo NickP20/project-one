@@ -24,5 +24,5 @@ Nick's ipynb contains the code for questions 2 & 3
 Raw csv also included in project repository
 
 Link to our presentation: https://docs.google.com/presentation/d/1yRLU_pJdZdACNOV0aKRaX7uTJcpZP4dcSXAVitexjmg/edit?usp=sharing
-
+Link to our project summary:  https://docs.google.com/document/d/1ufye6WOh16TxEBMU_OcWJxQHMcswN3A_vcFHdlNYc1I/edit#heading=h.r42hh7pe1inh
 
